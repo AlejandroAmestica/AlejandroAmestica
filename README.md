@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **everything about computer engineering, from the basics to advanced topics.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
